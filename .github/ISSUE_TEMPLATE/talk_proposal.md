@@ -1,4 +1,3 @@
-**Title/Topic:**
 **Talk Length:** 20mins/40mins
 **Summary:**
 **Available month(s):**
