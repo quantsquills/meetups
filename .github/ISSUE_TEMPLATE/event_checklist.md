@@ -9,7 +9,7 @@ This stuff should get done early so we can promote the next event at the on that
 * [ ] Lock in speaker
 * [ ] Get talk summary and any neat images available
 * [ ] Add details to Meetup.com
-* [ ] Post event of Facebook
+* [ ] Post event to Facebook
 
 ## 2 weeks out
 
