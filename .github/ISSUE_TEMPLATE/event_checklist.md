@@ -18,7 +18,7 @@ This stuff should get done early so we can promote the next event at the on that
 
 ## 1 week out
 
-* [ ] Post request for volunteers on Facebook and Twitter
+* Post request for volunteers on Facebook and Twitter
   * [ ] Record
   * [ ] Photograph
 * [ ] Check catering stock and order more if required
@@ -32,3 +32,4 @@ This stuff should get done early so we can promote the next event at the on that
 
 * [ ] Purchase ice
 * [ ] Setup venue (start about 4:30pm)
+* [ ] Check of attendees on arrival
