@@ -14,6 +14,7 @@ This stuff should get done early so we can promote the next event at the on that
 ## 2 weeks out
 
 * [ ] Schedule appropriate tweets for promotion (in TweetDeck)
+* [ ] Send email newsletter
 * [ ] Schedule appropriate FB posts for promotion
 * Notify event partners about the event topic for cross promotion
   * [ ] Women In Media
