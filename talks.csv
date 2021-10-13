@@ -42,8 +42,8 @@ date,presenter,title,presenter_twitter,presenter_url,presenter_gender,slides,vid
 2018-04-28,Adam Smith,Simulating Instagram's algorithmic culture by examining Brisbane's nightlife,,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/249890339/
 2018-05-23,Kellie Riordan,Our challenge is this: how to make a hit podcast,KellieRiordan,,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/szrrppyxhbfc/
 2018-05-23,Andrew Davies,Our challenge is this: how to make a hit podcast,awrd,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/szrrppyxhbfc/
-2018-06-27,Cristen Tilley,Making the jump: becoming a data journalist,CristenTilley,,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/szrrppyxjbkc/
-2018-06-27,Felicity Caldwell,Making the jump: becoming a data journalist,fel_caldwell,,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/szrrppyxjbkc/
+2018-06-27,Cristen Tilley,Making the jump: becoming a data journalist,CristenTilley,,f,,https://www.youtube.com/watch?v=Qp9ENsOGdSY,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/szrrppyxjbkc/
+2018-06-27,Felicity Caldwell,Making the jump: becoming a data journalist,fel_caldwell,,f,,https://www.youtube.com/watch?v=Qp9ENsOGdSY,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/szrrppyxjbkc/
 2018-07-25,Brad Lyons,Skiptrace: how to track down people & leads using online tools,,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/szrrppyxkbhc/
 2018-08-22,Dan Seed,"The ""A little bit of our Syria"" project: Blending photography, podcasting and AR",,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/szrrppyxlbdc/
 2018-08-22,Rose Richani,"The ""A little bit of our Syria"" project: Blending photography, podcasting and AR",,,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/szrrppyxlbdc/
@@ -66,3 +66,24 @@ date,presenter,title,presenter_twitter,presenter_url,presenter_gender,slides,vid
 2019-10-30,Andrew Davies,"The new podcast ecosystem: smart speakers, platforms & other podcasting trends",awrd,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/265735785/
 2019-10-30,Nance Haxton,"The new podcast ecosystem: smart speakers, platforms & other podcasting trends",NanceHaxton,https://nancehaxton.com.au/,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/265735785/
 2019-10-30,James Cridland,"The new podcast ecosystem: smart speakers, platforms & other podcasting trends",JamesCridland,https://james.cridland.net/,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/265735785/
+2019-11-27,Felicity Sheppard,How do you get a job as a digital journalist?,,,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/266060401/
+2019-11-27,Stuart Layt,How do you get a job as a digital journalist?,,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/266060401/
+2020-02-26,Peter Marsh,Vision 2020 — stories of the new year,peterlmarsh,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/tkqknrybcdbjc/
+2020-02-26,Susan Heatherington,Vision 2020 — stories of the new year,snoozen,,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/tkqknrybcdbjc/
+2020-02-26,Bela Stantic,Vision 2020 — stories of the new year,bela_stantic,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/tkqknrybcdbjc/
+2020-02-26,Sarah Motherwell,Vision 2020 — stories of the new year,sarahmotherwell,,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/tkqknrybcdbjc/
+2020-04-29,,A pandemic of data viz,,,,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/vxmgqrybcgbdc/
+2020-06-24,Timothy Neville,"Reporting, analysis and visualisation of sports statistics",,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/vzwlsrybcjbgc/
+2020-08-26,Nathan Bazley,The XR path ahead,NathanBazley,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/272650495/
+2020-10-28,Danielle Cronin,The State of our Media,DanielleCronin,https://daniellecronin.com/,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/274055239/
+2020-10-28,Axel Bruns,The State of our Media,snurb_dot_info,https://snurb.info/,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/274055239/
+2020-10-28,Jyi Lawton,The State of our Media,jyilawton,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/274055239/
+2020-10-28,Vanessa Wiltshire,The State of our Media,vanessa_wil,,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/274055239/
+2020-10-28,Katie Cassidy,The State of our Media,kcassowary,,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/274055239/
+2021-02-10,Amanda D. Lotz,"Information May Want to Be Free, but Journalism Can’t Be",DrTVLotz,http://www.amandalotz.com/,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/276021749/
+2021-03-31,Julian Fell,"One script, thousands of stories: What NLG means for data journalism",felljulian,https://jtfell.com/,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/276979999/
+2021-03-31,Michael Collett,"One script, thousands of stories: What NLG means for data journalism",collettmp,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/276979999/
+2021-05-05,Skye Doherty,"Journalism, but not as you know it",skyedoherty,http://skyedoherty.com/,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/277749731/
+2021-05-05,Joseph Burgess,"Journalism, but not as you know it",,https://master-builder.squarespace.com,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/277749731/
+2021-07-22,Grania Kelly,"Trace, Touch, Feel the Brisbane River - the Art & Science of Haptic Storytelling",,http://starsapphireproductions.com/,f,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/279120736/
+2021-07-22,Gavin Winter,"Trace, Touch, Feel the Brisbane River - the Art & Science of Haptic Storytelling",gavinwinterbne,,m,,,,https://www.meetup.com/Hacks-Hackers-Brisbane/events/279120736/
